@@ -1,0 +1,10 @@
+.model-type {
+  font-size: smaller !important;
+  margin-left: 4px;
+}
+.card {
+  border: none !important;
+}
+.anchor {
+  text-decoration: none;
+}
